@@ -46,5 +46,6 @@ typedef void dondurulemez;
 #define dogru (true)
 #define yanlis (false)
 
+#define dondur return
 
 #endif /* NATIVECPP_TR_HPP */
