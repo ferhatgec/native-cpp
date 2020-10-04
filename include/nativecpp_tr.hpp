@@ -19,6 +19,7 @@ typedef char karakter;
 
 /* Integer */
 typedef int tam;
+typedef unsigned isaretsiz;
 
 /* Floating point, decimal */
 typedef float ondalik;
