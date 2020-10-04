@@ -2,5 +2,8 @@
 #include <iostream>
 
 tam ana() {
-  printf("Merhaba dunya!");
+	boole a = dogru;
+  	if(a == dogru) {
+  		std::cout << "True..\n";
+  	}
 }

@@ -29,6 +29,8 @@ typedef std::string dizgi;
 /* Boolean algebra */
 typedef bool boole;
 
+typedef void dondurulemez;
+
 #define sirali (inline)
 
 /* Logical operators */
@@ -39,6 +41,10 @@ typedef bool boole;
 
 /* Main function */
 #define ana (main)
+
 #define const sabit
+#define dogru (true)
+#define yanlis (false)
+
 
 #endif /* NATIVECPP_TR_HPP */
