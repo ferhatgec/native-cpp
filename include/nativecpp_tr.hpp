@@ -51,4 +51,7 @@ typedef void dondurulemez;
 #define eger if
 #define degilse else
 
+/* Automatic storage duration. */
+#define otomatik auto
+
 #endif /* NATIVECPP_TR_HPP */
