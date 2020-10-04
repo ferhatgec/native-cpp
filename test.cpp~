@@ -1,6 +1,0 @@
-#include "include/nativecpp_tr.hpp"
-#include <iostream>
-
-tam main() {
-  printf("Merhaba dunya!");
-}

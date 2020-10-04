@@ -29,9 +29,13 @@ typedef std::string dizgi;
 /* Boolean algebra */
 typedef bool boole;
 
+#define sirali (inline)
+
 /* Logical operators */
 #define ve (and)
 #define ya_da (or)
+#define sonlandir (break)
+#define devam (continue)
 
 /* Main function */
 #define ana (main)
