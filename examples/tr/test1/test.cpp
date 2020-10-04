@@ -1,4 +1,4 @@
-#include "../include/nativecpp_tr.hpp"
+#include "../../../include/nativecpp_tr.hpp"
 #include <iostream>
 
 dondurulemez ekle(tam t1, tam t2) {
