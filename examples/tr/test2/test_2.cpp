@@ -2,9 +2,9 @@
 #include <iostream>
 
 dondurulemez ekle(tam t1, tam t2, boole _test_) {
-	if((t1 + t2) % 2 == 0)
-		_test_ = false;
-	else
+	eger((t1 + t2) % 2 == 0)
+		_test_ = yanlis;
+	degilse
 		std::cout << t1 + t2 << "\n";
 }
 
@@ -12,9 +12,9 @@ tam ana() {
 	boole test = dogru;
 	ekle(1, 3, test);
 	
-	if(test == dogru)
+	eger(test == dogru)
 		std::cout << "..";
-	else
+	degilse
 		std::cout << ".....";
 
 	std::cout << "\n";

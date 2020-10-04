@@ -47,5 +47,7 @@ typedef void dondurulemez;
 #define yanlis (false)
 
 #define dondur return
+#define eger if
+#define degilse else
 
 #endif /* NATIVECPP_TR_HPP */
