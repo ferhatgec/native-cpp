@@ -1,0 +1,21 @@
+#ifndef NATIVECPP_TR_HPP
+#define NATIVE_CPP_TR_HPP
+
+#include <iostream>
+
+typedef char karakter;
+typedef int tam;
+
+typedef float ondalik;
+typedef double cift;
+typedef long double uzuncift;
+typedef std::string dizgi;
+
+/* Boole cebiri, boolean. */
+typedef bool boole;
+using and = ve;
+
+using or = ya_da;
+
+
+#endif
