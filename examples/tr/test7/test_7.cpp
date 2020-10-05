@@ -4,10 +4,12 @@
 sinif Test {
 genel:
  dondurulemez test(tam t1);
+ozel:
+ std::string _test = "Integer: ";
 };
 
 dondurulemez Test::test(tam t1) {
-  std::cout << t1 << "\n";
+  std::cout << _test << t1 << "\n";
 }
 
 tam ana() {
