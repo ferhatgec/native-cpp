@@ -14,23 +14,25 @@
 
 #include <iostream>
 
+#define tur_tanimla typedef
+
 /* Character */
-typedef char karakter;
+tur_tanimla char karakter;
 
 /* Integer */
-typedef int tam;
-typedef unsigned isaretsiz;
+tur_tanimla int tam;
+tur_tanimla unsigned isaretsiz;
 
 /* Floating point, decimal */
-typedef float ondalik;
-typedef double cift;
-typedef long double uzuncift;
-typedef std::string dizgi;
+tur_tanimla float ondalik;
+tur_tanimla double cift;
+tur_tanimla long double uzuncift;
+tur_tanimla std::string dizgi;
 
 /* Boolean algebra */
-typedef bool boole;
+tur_tanimla bool boole;
 
-typedef void dondurulemez;
+tur_tanimla void dondurulemez;
 
 #define sirali (inline)
 
@@ -67,5 +69,7 @@ typedef void dondurulemez;
 
 #define sabit static
 #define sanal virtual
+
+#define yenisatir '\n'
 
 #endif /* NATIVECPP_TR_HPP */
