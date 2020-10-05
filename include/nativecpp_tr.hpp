@@ -58,4 +58,6 @@ typedef void dondurulemez;
 #define __SATIR__ __LINE__
 #define __ZAMAN__ __TIME__
 
+#define sinif class
+
 #endif /* NATIVECPP_TR_HPP */
