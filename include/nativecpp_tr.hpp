@@ -21,6 +21,16 @@ tur_tanimla char karakter;
 
 /* Integer */
 tur_tanimla int tam;
+
+tur_tanimla uint8_t  itam8;
+tur_tanimla int8_t   tam8;
+tur_tanimla uint16_t itam16;
+tur_tanimla int16_t  tam16;
+tur_tanimla uint32_t itam32;
+tur_tanimla int32_t  tam32;
+tur_tanimla uint64_t itam64;
+tur_tanimla int64_t  tam64;
+
 tur_tanimla unsigned isaretsiz;
 
 /* Floating point, decimal */
