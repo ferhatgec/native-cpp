@@ -37,6 +37,8 @@ typedef void dondurulemez;
 /* Logical operators */
 #define ve (and)
 #define ya_da (or)
+#define ve_esit (and_eq)
+#define esit (==)
 #define sonlandir (break)
 #define devam (continue)
 
@@ -64,6 +66,6 @@ typedef void dondurulemez;
 #define ozel private
 
 #define sabit static
-
+#define sanal virtual
 
 #endif /* NATIVECPP_TR_HPP */

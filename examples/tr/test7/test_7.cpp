@@ -5,7 +5,7 @@ sinif Test {
 genel:
  dondurulemez test(tam t1);
 ozel:
- std::string _test = "Integer: ";
+ dizgi _test = "Integer: ";
 };
 
 dondurulemez Test::test(tam t1) {
