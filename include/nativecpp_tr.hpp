@@ -54,4 +54,8 @@ typedef void dondurulemez;
 /* Automatic storage duration. */
 #define otomatik auto
 
+#define __DOSYA__ __FILE__
+#define __SATIR__ __LINE__
+#define __ZAMAN__ __TIME__
+
 #endif /* NATIVECPP_TR_HPP */
