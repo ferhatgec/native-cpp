@@ -60,4 +60,6 @@ typedef void dondurulemez;
 
 #define sinif class
 
+#define genel public
+
 #endif /* NATIVECPP_TR_HPP */

@@ -2,7 +2,7 @@
 #include <iostream>
 
 sinif Test {
- public:
+genel:
  dondurulemez test(tam t1);
 };
 
